@@ -51,4 +51,7 @@
   rebase = false
 [user]
 	email = Chogo01@hotmail.com
-	name = victor jara
+	name = Victor Jara
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
